@@ -1,0 +1,3 @@
+# Project exclude paths
+/maven-01-ssm/target/
+/maven-02-pojo/target/
